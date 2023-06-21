@@ -1,0 +1,43 @@
+.container {
+    padding: 20px;
+}
+
+.titulo {
+    font-size: 30px;
+}
+
+.content {
+    margin: 18px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} 
+
+.btn {
+    width:80px;
+    font-size: 8px;
+    border: 3px solid black;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn img {
+    width: 60px;
+    height: 60px;
+}
+
+.info {
+    display: flex;
+    margin: auto 0;
+    width: 800px;
+
+}
+
+.info img {
+    width: 500px;
+} 
+
+.tudo {
+    display: flex;
+}
